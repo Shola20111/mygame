@@ -1,1 +1,1 @@
-# mygame
+# tic-tac
